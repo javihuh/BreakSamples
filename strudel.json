@@ -1,15 +1,3 @@
-{
-  "_base": "https://raw.githubusercontent.com/javihuh/BreakSamples/main/",
-  "break": {
-    "_base": "breaks/",
-    "main": "breakpattern.wav"
-  },
-  "mel": {
-    "_base": "melody/",
-    "n1": "n1.wav",
-    "n2": "n2.wav",
-    "n3": "n3.wav",
-    "n4": "n4.wav",
-    "n5": "n5.wav"
-  }
+{"_base":"https://raw.githubusercontent.com/javihuh/BreakSamples/main/",
+"Break-01": ["breakpattern.wav"]
 }
